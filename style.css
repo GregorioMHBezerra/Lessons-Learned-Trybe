@@ -10,4 +10,9 @@ body {
 
 header {
   top: 0;
+  position: fixed;
+}
+
+img {
+  width: 350px;
 }
