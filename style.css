@@ -35,9 +35,18 @@ article section nav {
   text-align: center;
 }
 
+img {
+  width: 350px;
+}
+
+main article section img {
+  margin-left: 60px;
+}
+
 nav abbr , nav a {
   text-decoration: none;
   color: black;
+  margin-left: 15px;
 }
 
 aside a {
@@ -47,10 +56,6 @@ aside a {
 aside h2 {
   color: darkred;
   font-size: 22px;
-  width: 350px;
-}
-
-img {
   width: 350px;
 }
 
