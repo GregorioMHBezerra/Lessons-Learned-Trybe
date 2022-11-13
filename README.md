@@ -2,7 +2,7 @@
 
 ![preview](./github/preview-html.png)
 
-> Trilha Explorer 
+> Módulo de Fundamentos
 
  Site desenvolvido como projeto da Trybe em 2022
 
